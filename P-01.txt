@@ -1,0 +1,13 @@
+Caracteristicas de los template Stings:
+-Interpolación de variables: Una de las características más útiles de los template 
+strings es la capacidad de incrustar variables dentro de una cadena de texto. 
+Esto se logra utilizando la sintaxis `${}`.
+-Multilínea: Los template strings permiten crear cadenas de texto multilínea de 
+forma más legible, sin necesidad de concatenación de cadenas o caracteres de escape.
+-Expresiones dentro de la interpolación: Además de variables, puedes incluir expresiones 
+dentro de la interpolación de un template string. Esto permite realizar operaciones o llamar 
+a funciones directamente dentro de la cadena de texto.
+    Los template strings ofrecen una sintaxis más intuitiva y legible para crear cadenas de texto, 
+especialmente cuando se necesita interpolación de variables o cadenas multilínea. Son más flexibles y 
+ en términos de escritura de código en comparación con las comillas simples y dobles, lo que ayuda a
+  mejorar la claridad y la mantenibilidad del código.
